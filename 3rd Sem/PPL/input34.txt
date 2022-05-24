@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+    int a; // This is one type
+    int b; /* This is another type */
+
+    printf("Sum = %d\n", a + b);
+
+    return 0;
+}
